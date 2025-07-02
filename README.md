@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/ddmvjuyyr/image/upload/v1751442046/github-header-image_1_zqnjns.png)](https://linkedin.com/in/ujwala2702)
 
-<h1 align="center">Hi 👋, I'm Ujwala Peddaboina</h1>
+
 <h3 align="center">Learning by doing. Sharing while growing.</h3>
 
 <p align="center">

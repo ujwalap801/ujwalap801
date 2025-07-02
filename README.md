@@ -53,11 +53,18 @@
 
 <div align="center">
 
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwalap801&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="400" /> </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujwalap801&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ujwalap801&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ujwalap801&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
- <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujwalap801&" alt="GitHub Streak" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ujwalap801&theme=transparent&hide_border=true" alt="GitHub Streak" width="400"/>
+</p>
+
 
 </div>
 

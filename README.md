@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/BI-Tools-orange?style=flat-square"/> 
   <img src="https://img.shields.io/badge/Databases-green?style=flat-square"/> 
   <img src="https://img.shields.io/badge/Git-VersionControl-critical?style=flat-square"/> 
-  <img src="https://img.shields.io/badge/Soft-Skills-purple?style=flat-square"/>
+
 </p>
 
 ---

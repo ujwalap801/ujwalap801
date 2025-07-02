@@ -61,9 +61,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ujwalap801&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ujwalap801&theme=transparent&hide_border=true" alt="GitHub Streak" width="400"/>
-</p>
 
 
 </div>

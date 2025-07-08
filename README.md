@@ -26,8 +26,7 @@
 ### 📫 Contact Me
 
 - 📧 **ujwalap801@gmail.com**
-- 💼 [LinkedIn]
-- 📄 [Resume](https://drive.google.com/file/d/1Z_QI_tHiZn08XRWCI-cwv21MCiwPR5bH/view?usp=sharing)
+
 
 ---
 
